@@ -2,11 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="cf3b2ece-47a2-469a-b3b1-9eddb4698599" name="Default" comment="">
-      <change type="DELETED" beforePath="$PROJECT_DIR$/source/_posts/1808010012.md" afterPath="" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/source/_posts/1808010010.md" afterPath="$PROJECT_DIR$/source/_posts/1808010010.md" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/source/_posts/1808010011.md" afterPath="$PROJECT_DIR$/source/_posts/1808010011.md" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/themes/pure/_config.yml" afterPath="$PROJECT_DIR$/themes/pure/_config.yml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/source/_posts/1808010009.md" afterPath="$PROJECT_DIR$/source/_posts/1808010009.md" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -199,6 +195,17 @@
             <path>
               <item name="cynthiawupore.github.ior" type="b2602c69:ProjectViewProjectNode" />
               <item name="cynthiawupore.github.ior" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="cynthiawupore.github.ior" type="b2602c69:ProjectViewProjectNode" />
+              <item name="cynthiawupore.github.ior" type="462c0819:PsiDirectoryNode" />
+              <item name="source" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="cynthiawupore.github.ior" type="b2602c69:ProjectViewProjectNode" />
+              <item name="cynthiawupore.github.ior" type="462c0819:PsiDirectoryNode" />
+              <item name="source" type="462c0819:PsiDirectoryNode" />
+              <item name="_posts" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="cynthiawupore.github.ior" type="b2602c69:ProjectViewProjectNode" />
