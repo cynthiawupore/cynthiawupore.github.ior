@@ -2,7 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="cf3b2ece-47a2-469a-b3b1-9eddb4698599" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/source/_posts/1808010009.md" afterPath="$PROJECT_DIR$/source/_posts/1808010009.md" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/themes/pure/_config.yml" afterPath="$PROJECT_DIR$/themes/pure/_config.yml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/themes/pure/layout/_common/footer.ejs" afterPath="$PROJECT_DIR$/themes/pure/layout/_common/footer.ejs" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/themes/pure/layout/_common/social.ejs" afterPath="$PROJECT_DIR$/themes/pure/layout/_common/social.ejs" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -20,18 +23,68 @@
       <file leaf-file-name="_config.yml" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/themes/pure/_config.yml">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="192">
-              <caret line="22" column="20" lean-forward="false" selection-start-line="22" selection-start-column="20" selection-end-line="22" selection-end-column="20" />
+            <state relative-caret-position="31">
+              <caret line="174" column="49" lean-forward="false" selection-start-line="174" selection-start-column="49" selection-end-line="174" selection-end-column="49" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="thumbnail.js" pinned="false" current-in-tab="true">
+      <file leaf-file-name="footer.ejs" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/themes/pure/layout/_common/footer.ejs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="30">
+              <caret line="2" column="27" lean-forward="false" selection-start-line="2" selection-start-column="27" selection-end-line="2" selection-end-column="27" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="social.ejs" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/themes/pure/layout/_common/social.ejs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="15">
+              <caret line="1" column="121" lean-forward="false" selection-start-line="1" selection-start-column="121" selection-end-line="1" selection-end-column="121" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="thumbnail.js" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/themes/pure/scripts/thumbnail.js">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="90">
               <caret line="6" column="0" lean-forward="false" selection-start-line="6" selection-start-column="0" selection-end-line="6" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="index.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/.deploy_git/index.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="499">
+              <caret line="125" column="27" lean-forward="false" selection-start-line="125" selection-start-column="27" selection-end-line="125" selection-end-column="27" />
+              <folding>
+                <marker date="1533177471178" expanded="true" signature="20182:20183" ph="..." />
+                <marker date="1533177471178" expanded="true" signature="20182:20322" ph="..." />
+                <marker date="1533177471178" expanded="true" signature="20213:20312" ph="..." />
+                <marker date="1533177471178" expanded="true" signature="20251:20301" ph="..." />
+                <marker date="1533177471178" expanded="true" signature="20410:20497" ph="..." />
+                <marker date="1533177471178" expanded="true" signature="20617:20930" ph="..." />
+                <marker date="1533177471178" expanded="true" signature="20638:20911" ph="{...}" />
+                <marker date="1533177471178" expanded="true" signature="20665:20864" ph="{&quot;ROOT_URL&quot;: '/'...}" />
+                <marker date="1533177471178" expanded="true" signature="20688:20834" ph="{&quot;POSTS&quot;: '文章'...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="page.md" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/scaffolds/page.md">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="0">
+              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
               <folding />
             </state>
           </provider>
@@ -53,12 +106,20 @@
     <findStrings>
       <find>hello</find>
       <find>hello world!</find>
-      <find>comm</find>
+      <find>main-navbar</find>
+      <find>social-links</find>
       <find>Hexo</find>
+      <find>Don’t Repeat Yourself</find>
+      <find>footer</find>
+      <find>comm</find>
+      <find>social-lin</find>
+      <find>https://github.com/cofess</find>
+      <find>follow</find>
     </findStrings>
     <dirStrings>
       <dir>$PROJECT_DIR$/public</dir>
       <dir>$PROJECT_DIR$/themes</dir>
+      <dir>$PROJECT_DIR$</dir>
       <dir>$PROJECT_DIR$/themes/pure</dir>
     </dirStrings>
   </component>
@@ -84,6 +145,8 @@
         <option value="$PROJECT_DIR$/source/_posts/1808010010.md" />
         <option value="$PROJECT_DIR$/source/_posts/1808010011.md" />
         <option value="$PROJECT_DIR$/themes/pure/_config.yml" />
+        <option value="$PROJECT_DIR$/themes/pure/layout/_common/social.ejs" />
+        <option value="$PROJECT_DIR$/themes/pure/layout/_common/footer.ejs" />
       </list>
     </option>
   </component>
@@ -97,10 +160,8 @@
     <handled-path value="$PROJECT_DIR$/node_modules" />
   </component>
   <component name="ProjectFrameBounds" fullScreen="true">
-    <option name="x" value="37" />
-    <option name="y" value="23" />
-    <option name="width" value="1643" />
-    <option name="height" value="1027" />
+    <option name="width" value="1680" />
+    <option name="height" value="1050" />
   </component>
   <component name="ProjectInspectionProfilesVisibleTreeState">
     <entry key="Project Default">
@@ -199,13 +260,12 @@
             <path>
               <item name="cynthiawupore.github.ior" type="b2602c69:ProjectViewProjectNode" />
               <item name="cynthiawupore.github.ior" type="462c0819:PsiDirectoryNode" />
-              <item name="source" type="462c0819:PsiDirectoryNode" />
+              <item name=".deploy_git" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="cynthiawupore.github.ior" type="b2602c69:ProjectViewProjectNode" />
               <item name="cynthiawupore.github.ior" type="462c0819:PsiDirectoryNode" />
-              <item name="source" type="462c0819:PsiDirectoryNode" />
-              <item name="_posts" type="462c0819:PsiDirectoryNode" />
+              <item name="scaffolds" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="cynthiawupore.github.ior" type="b2602c69:ProjectViewProjectNode" />
@@ -258,6 +318,7 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1680" height="1050" extended-state="0" />
+    <editor active="true" />
     <layout>
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="DB Browser" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
@@ -268,8 +329,8 @@
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Execute Anonymous" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.24954791" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
-      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32958034" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.24954791" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.24257933" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
@@ -437,6 +498,40 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/themes/pure/scripts/thumbnail.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="90">
+          <caret line="6" column="0" lean-forward="false" selection-start-line="6" selection-start-column="0" selection-end-line="6" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.deploy_git/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="499">
+          <caret line="125" column="27" lean-forward="false" selection-start-line="125" selection-start-column="27" selection-end-line="125" selection-end-column="27" />
+          <folding>
+            <marker date="1533177471178" expanded="true" signature="20182:20183" ph="..." />
+            <marker date="1533177471178" expanded="true" signature="20182:20322" ph="..." />
+            <marker date="1533177471178" expanded="true" signature="20213:20312" ph="..." />
+            <marker date="1533177471178" expanded="true" signature="20251:20301" ph="..." />
+            <marker date="1533177471178" expanded="true" signature="20410:20497" ph="..." />
+            <marker date="1533177471178" expanded="true" signature="20617:20930" ph="..." />
+            <marker date="1533177471178" expanded="true" signature="20638:20911" ph="{...}" />
+            <marker date="1533177471178" expanded="true" signature="20665:20864" ph="{&quot;ROOT_URL&quot;: '/'...}" />
+            <marker date="1533177471178" expanded="true" signature="20688:20834" ph="{&quot;POSTS&quot;: '文章'...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/scaffolds/page.md">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/_config.yml">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="915">
@@ -447,16 +542,24 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/themes/pure/_config.yml">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="192">
-          <caret line="22" column="20" lean-forward="false" selection-start-line="22" selection-start-column="20" selection-end-line="22" selection-end-column="20" />
+        <state relative-caret-position="31">
+          <caret line="174" column="49" lean-forward="false" selection-start-line="174" selection-start-column="49" selection-end-line="174" selection-end-column="49" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/themes/pure/scripts/thumbnail.js">
+    <entry file="file://$PROJECT_DIR$/themes/pure/layout/_common/social.ejs">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="90">
-          <caret line="6" column="0" lean-forward="false" selection-start-line="6" selection-start-column="0" selection-end-line="6" selection-end-column="0" />
+        <state relative-caret-position="15">
+          <caret line="1" column="121" lean-forward="false" selection-start-line="1" selection-start-column="121" selection-end-line="1" selection-end-column="121" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/themes/pure/layout/_common/footer.ejs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="30">
+          <caret line="2" column="27" lean-forward="false" selection-start-line="2" selection-start-column="27" selection-end-line="2" selection-end-column="27" />
           <folding />
         </state>
       </provider>
