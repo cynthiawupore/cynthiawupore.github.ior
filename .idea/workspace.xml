@@ -18,7 +18,7 @@
     <session id="1559798989">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
-          <entry key="project.closed" value="4" />
+          <entry key="project.closed" value="5" />
           <entry key="project.open.time.1" value="2" />
           <entry key="project.open.time.2" value="2" />
           <entry key="project.open.time.3" value="1" />
@@ -27,12 +27,17 @@
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
         <counts>
-          <entry key="md" value="2" />
+          <entry key="gitignore" value="1" />
+          <entry key="html" value="1" />
+          <entry key="md" value="3" />
+          <entry key="yml" value="1" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
-          <entry key="PLAIN_TEXT" value="2" />
+          <entry key="HTML" value="1" />
+          <entry key="PLAIN_TEXT" value="4" />
+          <entry key="YAML" value="1" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
@@ -48,7 +53,40 @@
     </session>
   </component>
   <component name="FileEditorManager">
-    <leaf />
+    <leaf>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/source/_posts/1810190001.md">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="15">
+              <caret line="6" column="908" selection-start-line="6" selection-start-column="908" selection-end-line="6" selection-end-column="908" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/themes/pure/_config.yml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="301">
+              <caret line="106" column="17" selection-start-line="106" selection-start-column="10" selection-end-line="106" selection-end-column="17" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/themes/pure/.gitignore">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/.deploy_git/index.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="499">
+              <caret line="125" selection-start-line="125" selection-end-line="125" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
   </component>
   <component name="FindInProjectRecents">
     <findStrings>
@@ -63,6 +101,7 @@
       <find>https://github.com/cofess</find>
       <find>follow</find>
       <find>Hexo</find>
+      <find>cynthia</find>
     </findStrings>
     <dirStrings>
       <dir>$PROJECT_DIR$/public</dir>
@@ -72,7 +111,7 @@
     </dirStrings>
   </component>
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.deploy_git" />
   </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
@@ -212,90 +251,44 @@
             <path>
               <item name="cynthiawupore.github.ior" type="b2602c69:ProjectViewProjectNode" />
               <item name="cynthiawupore.github.ior" type="462c0819:PsiDirectoryNode" />
-              <item name="public" type="462c0819:PsiDirectoryNode" />
+              <item name=".deploy_git" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="cynthiawupore.github.ior" type="b2602c69:ProjectViewProjectNode" />
               <item name="cynthiawupore.github.ior" type="462c0819:PsiDirectoryNode" />
-              <item name="source" type="462c0819:PsiDirectoryNode" />
+              <item name=".deploy_git" type="462c0819:PsiDirectoryNode" />
+              <item name="2018" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="cynthiawupore.github.ior" type="b2602c69:ProjectViewProjectNode" />
               <item name="cynthiawupore.github.ior" type="462c0819:PsiDirectoryNode" />
-              <item name="source" type="462c0819:PsiDirectoryNode" />
-              <item name="_posts" type="462c0819:PsiDirectoryNode" />
+              <item name=".deploy_git" type="462c0819:PsiDirectoryNode" />
+              <item name="2018" type="462c0819:PsiDirectoryNode" />
+              <item name="10" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="cynthiawupore.github.ior" type="b2602c69:ProjectViewProjectNode" />
               <item name="cynthiawupore.github.ior" type="462c0819:PsiDirectoryNode" />
-              <item name="themes" type="462c0819:PsiDirectoryNode" />
+              <item name=".deploy_git" type="462c0819:PsiDirectoryNode" />
+              <item name="archives" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="cynthiawupore.github.ior" type="b2602c69:ProjectViewProjectNode" />
               <item name="cynthiawupore.github.ior" type="462c0819:PsiDirectoryNode" />
-              <item name="themes" type="462c0819:PsiDirectoryNode" />
-              <item name="pure" type="462c0819:PsiDirectoryNode" />
+              <item name=".deploy_git" type="462c0819:PsiDirectoryNode" />
+              <item name="css" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="cynthiawupore.github.ior" type="b2602c69:ProjectViewProjectNode" />
               <item name="cynthiawupore.github.ior" type="462c0819:PsiDirectoryNode" />
-              <item name="themes" type="462c0819:PsiDirectoryNode" />
-              <item name="pure" type="462c0819:PsiDirectoryNode" />
-              <item name="_source" type="462c0819:PsiDirectoryNode" />
+              <item name=".deploy_git" type="462c0819:PsiDirectoryNode" />
+              <item name="images" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="cynthiawupore.github.ior" type="b2602c69:ProjectViewProjectNode" />
               <item name="cynthiawupore.github.ior" type="462c0819:PsiDirectoryNode" />
-              <item name="themes" type="462c0819:PsiDirectoryNode" />
-              <item name="pure" type="462c0819:PsiDirectoryNode" />
-              <item name="_source" type="462c0819:PsiDirectoryNode" />
-              <item name="about" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="cynthiawupore.github.ior" type="b2602c69:ProjectViewProjectNode" />
-              <item name="cynthiawupore.github.ior" type="462c0819:PsiDirectoryNode" />
-              <item name="themes" type="462c0819:PsiDirectoryNode" />
-              <item name="pure" type="462c0819:PsiDirectoryNode" />
-              <item name="_source" type="462c0819:PsiDirectoryNode" />
-              <item name="books" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="cynthiawupore.github.ior" type="b2602c69:ProjectViewProjectNode" />
-              <item name="cynthiawupore.github.ior" type="462c0819:PsiDirectoryNode" />
-              <item name="themes" type="462c0819:PsiDirectoryNode" />
-              <item name="pure" type="462c0819:PsiDirectoryNode" />
-              <item name="_source" type="462c0819:PsiDirectoryNode" />
-              <item name="categories" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="cynthiawupore.github.ior" type="b2602c69:ProjectViewProjectNode" />
-              <item name="cynthiawupore.github.ior" type="462c0819:PsiDirectoryNode" />
-              <item name="themes" type="462c0819:PsiDirectoryNode" />
-              <item name="pure" type="462c0819:PsiDirectoryNode" />
-              <item name="_source" type="462c0819:PsiDirectoryNode" />
-              <item name="links" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="cynthiawupore.github.ior" type="b2602c69:ProjectViewProjectNode" />
-              <item name="cynthiawupore.github.ior" type="462c0819:PsiDirectoryNode" />
-              <item name="themes" type="462c0819:PsiDirectoryNode" />
-              <item name="pure" type="462c0819:PsiDirectoryNode" />
-              <item name="_source" type="462c0819:PsiDirectoryNode" />
+              <item name=".deploy_git" type="462c0819:PsiDirectoryNode" />
               <item name="tags" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="cynthiawupore.github.ior" type="b2602c69:ProjectViewProjectNode" />
-              <item name="cynthiawupore.github.ior" type="462c0819:PsiDirectoryNode" />
-              <item name="themes" type="462c0819:PsiDirectoryNode" />
-              <item name="pure" type="462c0819:PsiDirectoryNode" />
-              <item name="languages" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="cynthiawupore.github.ior" type="b2602c69:ProjectViewProjectNode" />
-              <item name="cynthiawupore.github.ior" type="462c0819:PsiDirectoryNode" />
-              <item name="themes" type="462c0819:PsiDirectoryNode" />
-              <item name="pure" type="462c0819:PsiDirectoryNode" />
-              <item name="layout" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -335,12 +328,12 @@
       <workItem from="1537868852557" duration="499000" />
       <workItem from="1537946122655" duration="43000" />
       <workItem from="1539938129583" duration="436000" />
-      <workItem from="1540886722816" duration="234000" />
+      <workItem from="1540886722816" duration="890000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="1815000" />
+    <option name="totallyTimeSpent" value="2471000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1680" height="1050" extended-state="6" />
@@ -405,13 +398,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="90">
           <caret line="6" selection-start-line="6" selection-end-line="6" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/.deploy_git/index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="499">
-          <caret line="125" selection-start-line="125" selection-end-line="125" />
         </state>
       </provider>
     </entry>
@@ -491,13 +477,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="-3911">
           <caret line="152" column="6" selection-start-line="152" selection-start-column="6" selection-end-line="152" selection-end-column="6" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/themes/pure/_config.yml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="422">
-          <caret line="41" column="7" lean-forward="true" selection-start-line="41" selection-start-column="7" selection-end-line="41" selection-end-column="7" />
         </state>
       </provider>
     </entry>
@@ -629,8 +608,25 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/source/_posts/1810190001.md">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-208">
+        <state relative-caret-position="15">
           <caret line="6" column="908" selection-start-line="6" selection-start-column="908" selection-end-line="6" selection-end-column="908" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/themes/pure/_config.yml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="301">
+          <caret line="106" column="17" selection-start-line="106" selection-start-column="10" selection-end-line="106" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/themes/pure/.gitignore">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.deploy_git/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="499">
+          <caret line="125" selection-start-line="125" selection-end-line="125" />
         </state>
       </provider>
     </entry>
